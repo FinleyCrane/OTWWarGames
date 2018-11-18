@@ -18,5 +18,14 @@ Level 2 --> 3
 
 #Level 3 --> 4
 
+# Use of ls command with the -a option - this shows the hidden directory of 'inhere'
+# Useage of cd command to navigate to the hidden directory 
+# Use of ls -a to find the '.hidden' file
+# Use of cat command to display the '.hidden' contents
+
+#Level 4 - 5
+
+
+
 
 
