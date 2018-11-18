@@ -7,4 +7,10 @@
 
 # Level 1 --> 2
 
+# Useage of ls command to display file list
+# Useage of cat command to diplay '-' file - Need to use it as cat ./- to actually read the file
+
+Level 2 --> 3
+
+
 
