@@ -12,5 +12,11 @@
 
 Level 2 --> 3
 
+# Use of ls
+# Use of cat command with the file 'spaces in this filename' - the file can be read by entering in cat 'spaces in this filename', or it can
+# be accessed simply by cat s* - there is only one file present, so s* will output the only file there that has in s in the name
+
+#Level 3 --> 4
+
 
 
